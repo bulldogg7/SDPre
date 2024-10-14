@@ -4,7 +4,7 @@ public class Objective7Lab5 {
         Scanner scanner = new Scanner(System.in);
         int selection;
 
-        while (true) {
+        while(true) {
             System.out.println("_____Menu_____");
             System.out.println("1: Say Hello");
             System.out.println("2: List My favorite foods");
